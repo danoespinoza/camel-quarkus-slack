@@ -1,6 +1,6 @@
 # camel-quarkus-slack Project
 
-PoC usign Camel, Quarkus and Slack
+PoC using Quarkus + Camel for send a message to Slack
 
 ## Running the application in dev mode
 
