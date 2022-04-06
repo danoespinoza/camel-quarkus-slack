@@ -2,6 +2,9 @@
 
 PoC using Quarkus + Camel for send a message to Slack
 
+See: Api Slack for Webhooks
+https://api.slack.com/messaging/webhooks
+
 ## Running the application in dev mode
 
 You can run your application in dev mode that enables live coding using:
